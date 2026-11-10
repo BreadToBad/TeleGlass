@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/dababd48-58d7-4bd0-8657-1f94a0e8808a
 
 ## Настройки чатов
 
-Капсулы шапки настроек чатов в exteraGram.
+Стеклянные капсулы шапки настроек чатов в exteraGram.
 
 <p align="center">
   <img src="docs/media/chat-settings-header.jpg" alt="Стеклянные кнопки назад и сброса в настройках чатов exteraGram" width="100%">
