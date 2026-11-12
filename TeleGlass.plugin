@@ -425,7 +425,7 @@ class IOSLiquidGlassPlugin(BasePlugin):
             Header(text="О проекте"),
             Text(
                 text="GitHub",
-                subtext="kirillyanch/TeleGlass",
+                subtext="BreadToBad/TeleGlass",
                 icon="msg_link",
                 on_click=self._open_github,
             ),
@@ -434,7 +434,7 @@ class IOSLiquidGlassPlugin(BasePlugin):
     def _open_github(self, view):
         try:
             jclass("org.telegram.messenger.browser.Browser").openUrl(
-                view.getContext(), "https://github.com/kirillyanch/TeleGlass"
+                view.getContext(), "https://github.com/BreadToBad/TeleGlass"
             )
         except Exception as exc:
             self._log_error("GitHub: открытие страницы", exc)
