@@ -105,9 +105,9 @@ https://github.com/user-attachments/assets/dababd48-58d7-4bd0-8657-1f94a0e8808a
   <img src="docs/media/attachment-tabs.jpg" alt="Вкладки вложений: галерея, файл, геопозиция, статья и опрос" width="100%">
 </p>
 
-## Настройки exteraGram
+## Настройки exteraGram и AyuGram
 
-Стеклянные капсулы шапки настроек в exteraGram.
+Стеклянные капсулы шапки настроек exteraGram и AyuGram.
 
 <p align="center">
   <img src="docs/media/chat-settings-header.jpg" alt="Стеклянные кнопки назад и сброса в настройках чатов exteraGram" width="100%">
